@@ -1,0 +1,12 @@
+team1,team2,score_team1,score_team2,wickets_team1,wickets_team2,team1_away_or_home,team2_home_away,winner,margin,margin_type,time_of_day,series,player_of_match,player_of_match_team,venue,toss,toss_decision,ground,ground_city,ground_country,match_date
+Australia,Pakistan,310,228,8,10,away,away,Australia,82,runs,Day,ICC World Cup,Andrew Symonds,Australia,"New Wanderers Stadium, Johannesburg",Pakistan,field first,Johannesburg,Johannesburg,South Africa,11-02-2003
+Australia,India,125,128,10,1,away,away,Australia,9,wickets,Day,ICC World Cup,Jason Gillespie,Australia,"SuperSport Park, Centurion",India,bat first,Centurion,Centurion,South Africa,15-02-2003
+Australia,Netherlands,170,122,2,10,away,away,Australia,75,runs,Day,ICC World Cup,Damien Martyn,Australia,"North West Cricket Stadium, Potchefstroom",Netherlands,field first,Potchefstroom,Potchefstroom,South Africa,20-02-2003
+Australia,Zimbabwe,246,248,9,3,home,away,Australia,7,wickets,Day,ICC World Cup,Andy Blignaut,Zimbabwe,"Queens Sports Club, Bulawayo",Zimbabwe,bat first,Bulawayo,Bulawayo,Zimbabwe,24-02-2003
+Australia,Namibia,301,45,6,10,away,away,Australia,256,runs,Day,ICC World Cup,Glenn McGrath,Australia,"North West Cricket Stadium, Potchefstroom",Australia,bat first,Potchefstroom,Potchefstroom,South Africa,27-02-2003
+Australia,England,204,208,8,8,away,away,Australia,2,wickets,Day,ICC World Cup,Andy Bichel,Australia,"St George's Park, Port Elizabeth",England,bat first,Port Elizabeth,Port Elizabeth,South Africa,02-03-2003
+Australia,Sri Lanka,319,223,5,10,away,away,Australia,96,runs,Day,ICC World Cup,Ricky Ponting,Australia,"SuperSport Park, Centurion",Australia,bat first,Centurion,Centurion,South Africa,07-03-2003
+Australia,New Zealand,208,112,9,10,away,away,Australia,96,runs,Day,ICC World Cup,Shane Bond,New Zealand,"St George's Park, Port Elizabeth",New Zealand,field first,Port Elizabeth,Port Elizabeth,South Africa,11-03-2003
+Australia,Kenya,174,178,8,5,away,away,Australia,5,wickets,Day and night,ICC World Cup,Aasif Karim,Kenya,"Kingsmead, Durban",Australia,field first,Durban,Durban,South Africa,15-03-2003
+Australia,Sri Lanka,212,123,7,7,away,away,Australia,48,runs,Day,ICC World Cup,Andrew Symonds,Australia,"St George's Park, Port Elizabeth",Australia,bat first,Port Elizabeth,Port Elizabeth,South Africa,18-03-2003
+Australia,India,359,234,2,10,away,away,Australia,125,runs,Day,ICC World Cup,Ricky Ponting,Australia,"New Wanderers Stadium, Johannesburg",India,field first,Johannesburg,Johannesburg,South Africa,23-03-2003
